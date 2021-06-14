@@ -15,9 +15,9 @@ This interface represents for name sorting.
 This interface represents for read and write file.
 
 ## How to build code
-Clone the repository (skip this step if you have the application on your machine)
+Clone the repository git clone https://github.com/spurtik/NameSort.git
 
-# At the root directory contains application's solution , restore required packages by running:
+# NameSorter directory restore required packages by running:
 * dotnet restore
 
 # Next, build the solution by running:
@@ -26,5 +26,9 @@ Clone the repository (skip this step if you have the application on your machine
 # Run the console application by:
 * dotnet run
 
-# unit testing, within the \NameSorter.Test directory, test application by:
+# Unit testing, within the NameSorter.Test directory, test application by:
 * dotnet test
+
+# Reference sites
+* https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
+* https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
